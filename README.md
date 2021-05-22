@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate with projects that help people and change the way we normally do things 
 - 📫 you can find me on 
   *LinkedIn: https://www.linkedin.com/in/amirvelasquez1/
+  
   *twitter: https://twitter.com/NoSoyAmir
 
 <!---
