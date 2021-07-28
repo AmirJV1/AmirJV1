@@ -2,9 +2,9 @@
 - 👀 I’m interested in improvement of my coding skills
 - 🌱 I’m currently learning Web development:
 
-  - Front End: CSS, JS, HTML, React, Vue.js
+  - Front End: CSS, JS, HTML, SCSS, SASS, EJS
   
-  - Back End: Node.js, MongoDB, PHP
+  - Back End: Node.js, MongoDB
   
 - 💞️ I’m looking to collaborate with projects that help people and change the way we normally do things 
 - 📫 you can find me on:
