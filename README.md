@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmirJV1
-- 👀 I’m interested in improvement of my coding skills
+- 👀 I’m interested in improving my coding skills
 - 🌱 I’m currently learning Web development:
 
   - Front End: CSS, JS, HTML, SCSS, SASS, EJS
