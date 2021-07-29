@@ -2,7 +2,7 @@
 
 Self taught developer searching for experience and sharpening of skills.
 
-I’m currently learning Web development
+I’m currently learning Web development - *Spanish*: Native - *English*: intermediate  
 
 ![gif](https://media.giphy.com/media/pzmbXFDiRbEEk1vCtP/giphy.gif)
 
@@ -11,8 +11,8 @@ I’m currently learning Web development
 ```ppst - hover over the images c;```
  
   <div "display:flex;" "justify-content:space-evenly;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" title="Node.js and mongoose!" width="150px" height="80px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="Mongo DB Logo" title="Mongo DB"  width="150px" height="80px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" title="Node.js and express!" width="150px" height="80px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="Mongo DB Logo" title="Mongo DB and mongoose"  width="150px" height="80px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript logo" title="Javascript"  width="150px" height="80px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS logo" width="150px" title="CSS"  height="80px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SASS logo" title="SASS"  width="150px" height="80px">
