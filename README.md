@@ -8,7 +8,7 @@ I’m currently learning Web development - *Spanish*: Native - *English*: interm
 
 ## Languages I know:
 
-```ppst - hover over the images c;```
+```Hey you, hover over the images c;```
  
   <div "display:flex;" "justify-content:space-evenly;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" title="Node.js and express!" width="150px" height="80px">
