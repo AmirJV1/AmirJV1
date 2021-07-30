@@ -2,12 +2,12 @@
 
 Self taught developer searching for experience and sharpening of skills.
 
-I’m currently learning Web development - *Spanish*: Native - *English*: intermediate  
+I’m currently learning Web development!
 
 ![gif](https://media.giphy.com/media/pzmbXFDiRbEEk1vCtP/giphy.gif)
 
 ## Languages I know:
-
+*Spanish*: Native - *English*: intermediate  
 ```Hey you, hover over the images c;```
  
   <div "display:flex;" "justify-content:space-evenly;">
