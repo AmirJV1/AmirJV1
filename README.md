@@ -18,7 +18,7 @@ I’m currently learning Web development!
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SASS logo" title="SASS"  width="150px" height="80px">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="EJS logo" title="EJS - node template engine "  width="100px" height="90px">
   </div>
-
+Learning the Golang!
 💞️ DM me if you need help with any project 🤓
 
 📫 also you can find me on:
